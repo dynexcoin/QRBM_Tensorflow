@@ -1,2 +1,2 @@
 # Example_QRBM_Tensorflow
-Quantum-Restricted-Boltzmann-Machine
+Example of Quantum-Restricted-Boltzmann-Machine with Tensorflow
